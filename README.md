@@ -1,2 +1,2 @@
 # Mulah-Technologies
-Data Analyst Internship Application
+The python script for Data Analyst Internship Application is in MulahTech.ipynb
